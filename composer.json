@@ -1,14 +1,10 @@
 {
-	"name": "ehsan/cwms",
+	"name": "ehsanm94/zaferoon",
 	"type": "project",
 	"authors": [
 		{
 			"name": "Ehsan Mokhtari",
 			"email": "ehsanm94@gmail.com"
-		} ,
-		{
-			"name": "Hesam Ebrahimi",
-			"email": "hesamebrahimy@gmail.com"
 		}
 	],
 	"autoload": {
@@ -17,6 +13,10 @@
 		}
 	},
 	"repositories": [
+	    {
+            "type": "composer",
+            "url": "git@gitlab.com:ehsanm94/zaferoon.git"
+        },
 		{
 	        "type": "vcs",
 			"url": "git@gitlab.com:ehsanm94/zardak.git"
