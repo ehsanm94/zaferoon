@@ -4,14 +4,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" href="public/src/style/css/global.css">
-<link rel="stylesheet" href="public/src/plugins/calendar/calendar.css">
 
 <script src="public/src/plugins/jquery-1.12.4.min.js"></script>
 <script src="public/src/js/functions.js"></script>
 <script src="public/src/plugins/persianumber.min.js"></script>
-<script src="public/src/plugins/semantic/dist/semantic.min.js"></script>
-<script src="public/src/plugins/tablesort.js"></script>
-<script src="public/src/plugins/calendar/calendar.js"></script>
 
 <?php if (isset($resources)) {
 	foreach($resources as $resource) {
