@@ -13,18 +13,14 @@
 		}
 	},
 	"repositories": [
-	    {
-            "type": "composer",
-            "url": "git@gitlab.com:ehsanm94/zaferoon.git"
-        },
 		{
-	        	"type": "vcs",
+			"type": "vcs",
 			"url": "git@gitlab.com:ehsanm94/zardak.git"
 		}
-    ],
-    "require": {           
-        "ehsanm94/zardak": "*",
-        "ehsanm94/damev" : "^1.0",
-        "vlucas/phpdotenv": "^2.4"
-    }
+	],
+	"require": {           
+		"ehsanm94/zardak": "*",
+		"ehsanm94/damev" : "^1.0",
+		"vlucas/phpdotenv": "^2.4"
+	}
 }
