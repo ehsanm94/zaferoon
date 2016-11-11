@@ -12,12 +12,6 @@
 			"App\\": "app/"
 		}
 	},
-	"repositories": [
-		{
-			"type": "vcs",
-			"url": "git@gitlab.com:ehsanm94/zardak.git"
-		}
-	],
 	"require": {           
 		"ehsanm94/zardak": "*",
 		"ehsanm94/damev" : "dev-master",
