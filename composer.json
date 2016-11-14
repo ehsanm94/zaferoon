@@ -13,7 +13,7 @@
 		}
 	},
 	"require": {           
-		"ehsanm94/zardak": "*",
+		"ehsanm94/zardak": "dev-master",
 		"ehsanm94/damev" : "dev-master",
 		"vlucas/phpdotenv": "^2.4"
 	}
