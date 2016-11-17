@@ -13,6 +13,7 @@ class Home extends Controller
                 'title' => 'خانه',
                 'resources' => array(
                     'style/css/home.css',
+                    'js/home.js',
                 ),
             ),
         );

@@ -1,9 +1,18 @@
-h1, h2, h3 {
+.welcome, .author {
 	text-align: center;
+}
+
+.author {
+	margin-top: 25px;
 }
 
 span.zaferoon {
 	color: #bb1b1b;
+	width: 110px;
+	display: inline-block;
+	cursor: pointer;
+	overflow: hidden;
+    vertical-align: sub;
 }
 
 body {

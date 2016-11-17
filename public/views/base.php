@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<?php require 'public/views/templates/head.php'; ?>
+	<?php require 'public/views/head.php'; ?>
 </head>
 <body>
 	<div>
