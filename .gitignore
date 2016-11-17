@@ -1,5 +1,6 @@
 .env
-.phpintel/
-vendor/
 .htaccess
-composer.lock
+.phpintel/
+config.js
+vendor/
+public/src/plugins/bower/
